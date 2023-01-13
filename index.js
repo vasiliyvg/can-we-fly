@@ -8,8 +8,8 @@ const windSpeedLimit = 15;
 
 // todo: split api by variables (use object)
 
-const latitude = 49.59,
-      longitude = 34.55,
+const latitude = 10,
+      longitude = 20,
       pressure = 950,
       altitude = 500,
       timezone = 'EET',
