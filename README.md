@@ -7,5 +7,5 @@ Run the following commands:
 1. `npm install`
 2. `npm run start`
 
-You should see the weather conditions:
+You should see the weather conditions for the specified location (lat,lon):
 ![Alt text](canWeFly.png?raw=true "Can We Fly?")
