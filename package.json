@@ -1,0 +1,13 @@
+{
+  "name": "can-we-fly",
+  "version": "1.0.0",
+  "description": "Weather application",
+  "main": "index.js",
+  "private": true,
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "axios":"1.2.2"
+  }
+}
